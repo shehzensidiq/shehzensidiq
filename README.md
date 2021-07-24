@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<--**shehzensidiq/shehzensidiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 - 🔭 I’m currently working on Deep Learning.
 - 🌱 I’m currently learning The in depth Deep Learning Architectures.
 - 👯 I’m looking to collaborate on Machine Learning and Deep learning Projects.
