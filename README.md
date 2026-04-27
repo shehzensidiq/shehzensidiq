@@ -1,10 +1,45 @@
-### Hi there 👋
+# Hi, I'm Shehzen 👋
 
-- 🔭 I’m currently working on Deep Learning.
-- 🌱 I’m currently learning The in depth Deep Learning Architectures.
-- 👯 I’m looking to collaborate on Machine Learning and Deep learning Projects.
-- 🤔 I’m looking for help with Master's Project.
-- 💬 Ask me about Data science, Machine Learning and Deep Learning.
-- 📫 How to reach me: @shehzensidiq on twitter.
-- 😄 Pronouns: He---
-- ⚡ Fun fact: Life is all about learning, May be all about machines to be taught and fed with data and logic.
+Building products at the edge of AI, automation, and open source.
+
+## Currently Building
+
+⚡ Mercury Agent  
+Soul-driven AI agent with memory, permissions, and terminal-first workflows.
+
+💸 sav.ink  
+AI-powered personal finance assistant for modern users.
+
+🛠 Cosmic Stack  
+Independent internet studio shipping products, tools, and experiments.
+
+## What I Work On
+
+- AI Agents
+- Developer Tools
+- Automation Systems
+- Product Design
+- Growth Engineering
+- Open Source Infrastructure
+
+## Philosophy
+
+Build useful things.  
+Ship fast.  
+Stay honest.  
+Compound daily.
+
+## Open Source
+
+I care about products people actually use, not vanity metrics.
+
+## Reach Me
+
+📩 shehzen@cosmicstack.org
+
+## Current Focus
+
+- Mercury ecosystem growth
+- AI memory systems
+- Consumer AI products
+- Sustainable internet businesses
